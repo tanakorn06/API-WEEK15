@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectjavaApplication<projectjava>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "nvc.it.projectjava.ProjectjavaApplication",
+            "projectName": "projectjava",
+            "args": ""
+        }
+    ]
+}
